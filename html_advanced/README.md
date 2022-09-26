@@ -12,5 +12,5 @@ The Designer File containing the webpage prototype that I will be recreating is 
 
 *`Duplicate to your Drafts` to have access to all design details*
 
-With that, **Let's Begin**
+With that, **Let's Begin**;  
 *You gat this*
