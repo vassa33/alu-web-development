@@ -16,7 +16,7 @@ The Designer File containing the webpage prototype that I will be recreating is 
 > just the semantics to create the skeleton of the webpage 
 > before jumping into the 'flesh' which we will do later.
 
-*`Duplicate to your Drafts` to have access to all design details*
+*`Duplicate to your Drafts` to have access to all design details from the Figma file*
 
 With that, **Let's Begin**;  
 *You gat this*
