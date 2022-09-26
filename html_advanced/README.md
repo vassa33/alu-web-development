@@ -10,7 +10,7 @@
 The Designer File containing the webpage prototype that I will be recreating is on Figma; here is the link:-
 [Homepage](https://www.figma.com/file/yRdSGrt6hf1WYWIz8KV46f/Homepage?node-id=0%3A1)
 
-![Homepage]("School Page@2x.png")
+![Homepage](https://www.figma.com/file/yRdSGrt6hf1WYWIz8KV46f/Homepage?node-id=0%3A1)
 
 > We will be using the basic foundations of HTML we have learned so far, 
 > just the semantics to create the skeleton of the webpage 
