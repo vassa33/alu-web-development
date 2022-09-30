@@ -12,9 +12,9 @@ The Designer File containing the webpage prototype that I will be recreating is 
 
 ![Homepage](https://user-images.githubusercontent.com/61325877/192328727-1c5539b6-12f8-4392-bed4-dd1ed9f3a317.png)
 
-> We will be using the basic foundations of HTML we have learned so far, 
+> I will be using the basic foundations of HTML I have learned so far, 
 > just the semantics to create the skeleton of the webpage 
-> before jumping into the 'flesh' which we will do later.
+> before jumping into the 'flesh' which I will do later.
 
 *`Duplicate to your Drafts` to have access to all design details from the Figma file*
 
