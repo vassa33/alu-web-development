@@ -14,4 +14,4 @@ Here is the webpage I am recreating; and here is the link:-
 > I will be using Figma and other trustee sources to help me achieve this.
        
        
-With that, **See you on the other side**;  
+With that, **See you on the other side...**;  
